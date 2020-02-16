@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Nivel1
+comment1.params=
+comment1.target=Nivel1()
+comment2.params=
+comment2.target=void\ preparar()
+comment3.params=
+comment3.target=void\ mostrarPuntaje()
+comment4.params=
+comment4.target=void\ actualizarPuntaje()
+numComments=5

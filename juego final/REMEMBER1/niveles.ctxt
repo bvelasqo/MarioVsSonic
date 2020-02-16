@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=niveles
+comment1.params=
+comment1.target=niveles()
+comment2.params=
+comment2.target=void\ mostrarVidas()
+comment3.params=
+comment3.target=void\ actualizarVidas()
+numComments=4

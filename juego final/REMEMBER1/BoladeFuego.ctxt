@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BoladeFuego
+comment1.params=rotation
+comment1.target=BoladeFuego(int)
+comment2.params=
+comment2.target=void\ eliminarBola()
+comment3.params=
+comment3.target=void\ mover()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

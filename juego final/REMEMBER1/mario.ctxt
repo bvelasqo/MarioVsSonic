@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=mario
+comment1.params=
+comment1.target=mario()
+comment2.params=
+comment2.target=void\ animar()
+comment3.params=
+comment3.target=void\ mover()
+comment4.params=
+comment4.target=void\ ganarNivel()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
